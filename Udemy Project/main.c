@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include <math.h>
 #include <string.h>
+#include "Header/headerOne.h"
 
 int main()
 {
@@ -18,6 +19,10 @@ int main()
     printf("\n My name is %s", name);
     /*
     String Copy */
+    /*
+    Creating Header files and using them */
+    printf("The class number is %d", ClassNumber);
+
     return 0;
 
 

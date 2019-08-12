@@ -1,0 +1,6 @@
+#ifndef HEADERONE_H_INCLUDED
+#define HEADERONE_H_INCLUDED
+#define ClassNumber 1
+
+
+#endif // HEADERONE_H_INCLUDED
