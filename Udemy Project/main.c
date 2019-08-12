@@ -23,6 +23,20 @@ int main()
     Creating Header files and using them */
     printf("\n\nThe class number is %d\n\n", ClassNumber);
 
+    /*
+    Using the scanf function
+    */
+    char firstName[20], lastName[20];
+    int age, salary;
+    printf("What is your firstname?\n");
+    scanf("%s", firstName);
+        printf("What is your lastname?\n");
+    scanf("%s", lastName);
+        printf("What is your age?\n");
+    scanf("%d", &age);
+        printf("What is your salary?\n");
+    scanf("%d", &salary);
+    printf("%s %s is %d years old and his salary is %d", firstName, lastName, age, salary);
     return 0;
 
 
