@@ -21,7 +21,7 @@ int main()
     String Copy */
     /*
     Creating Header files and using them */
-    printf("The class number is %d", ClassNumber);
+    printf("\n\nThe class number is %d\n\n", ClassNumber);
 
     return 0;
 
