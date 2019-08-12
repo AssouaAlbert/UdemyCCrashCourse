@@ -12,5 +12,13 @@ int main()
      */
     printf("Hello %s!, Thank you for signing up for this course %s\n", "Assoua","C Programming" );
     printf("We will study %d projects and %1.2f will be the rating", 99,100.0);
+        /*
+    Initializing an array */
+    char name[22] ="Eloumbat Assoua Albert";
+    printf("\n My name is %s", name);
+    /*
+    String Copy */
     return 0;
+
+
 }
